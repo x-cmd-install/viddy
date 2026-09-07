@@ -5,13 +5,13 @@ about:
   head: b56efe0
   archived: false
   latestVersion: "v1.3.1"
-  collectedAt: 2026-09-07T05:01:10Z
+  collectedAt: 2026-09-07T19:22:34Z
 timeline:
   created: 2021-08-14
   lastCommit: 2026-08-16
   lastRelease: 2026-06-14
 popularity:
-  star: 5412
+  star: 5411
   watcher: 22
   fork: 96
   release: 42
@@ -81,7 +81,7 @@ total:
   commit: 308
 ---
 path: /home/runner/.x-repo/github.com/sachaos/viddy
-collectedAt: 2026-09-07T05:01:13Z
+collectedAt: 2026-09-07T19:22:36Z
 loc:
   Rust:
     code: 4905
@@ -217,7 +217,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:01:15+00:00
+  collectedAt: 2026-09-07T19:22:37+00:00
   platform:
     darwin/arm64:
       name:  viddy-v1.3.1-macos-arm64.tar.gz
