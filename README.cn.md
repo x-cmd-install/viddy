@@ -4,7 +4,7 @@
 
 👀 A modern watch command. Time machine and pager etc.
 
-![viddy](https://repo.x-cmd.io/viddy.svg)
+![viddy](https://repo.x-cmd.io/viddy.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install viddy
 - **最新版本**: `v1.3.1` (2026-06-14)
 - **最近提交**: 2026-08-16
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-06-14T14:22:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [viddy-v1.3.1-linux-arm64.sha256](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-arm64.sha256) | 98 B | `native/linux/arm64` |
+| [viddy-v1.3.1-linux-arm64.tar.gz](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-arm64.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [viddy-v1.3.1-linux-i686.sha256](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-i686.sha256) | 97 B | `native/linux/x86` |
+| [viddy-v1.3.1-linux-i686.tar.gz](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-i686.tar.gz) | 3.5 MiB | `native/linux/x86` |
+| [viddy-v1.3.1-linux-x86_64.sha256](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-x86_64.sha256) | 99 B | `native/linux/x64` |
+| [viddy-v1.3.1-linux-x86_64.tar.gz](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-x86_64.tar.gz) | 3.5 MiB | `native/linux/x64` |
+| [viddy-v1.3.1-macos-arm64.sha256](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-macos-arm64.sha256) | 98 B | `native/darwin/arm64` |
+| [viddy-v1.3.1-macos-arm64.tar.gz](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-macos-arm64.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
+| [viddy-v1.3.1-macos-x86_64.sha256](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-macos-x86_64.sha256) | 99 B | `native/darwin/x64` |
+| [viddy-v1.3.1-macos-x86_64.tar.gz](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-macos-x86_64.tar.gz) | 3.2 MiB | `native/darwin/x64` |
+| [viddy-v1.3.1-windows-x86_64.sha256](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-windows-x86_64.sha256) | 65 B | `native/win/x64` |
+| [viddy-v1.3.1-windows-x86_64.tar.gz](https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-windows-x86_64.tar.gz) | 3.1 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -70,4 +86,4 @@ viddy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:02:14Z._
