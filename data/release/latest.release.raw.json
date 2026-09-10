@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3623684,
       "digest": "sha256:c0406da6c19bbfbf0381a1a54cf7098a97372c15e5d64bed38e4b8be53e8455e",
-      "download_count": 4643,
+      "download_count": 4645,
       "created_at": "2026-06-14T14:24:26Z",
       "updated_at": "2026-06-14T14:24:27Z",
       "browser_download_url": "https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-linux-x86_64.tar.gz"
