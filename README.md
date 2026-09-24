@@ -29,9 +29,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/16 approved changesets -- score normalized to 1
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-25 | 0 | 1 | 3 | 0 | 1 | 1 |
-| 90d | 2026-06-25 | 0 | 1 | 3 | 0 | 1 | 1 |
-| last180d | 2026-03-27 | 1 | 3 | 3 | 1 | 2 | 4 |
-| 360d | 2025-09-28 | 1 | 3 | 7 | 3 | 2 | 4 |
-| last720d | 2024-10-03 | 5 | 9 | 10 | 7 | 16 | 28 |
+| 30d | 2026-08-25 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-26 | 0 | 1 | 3 | 0 | 1 | 1 |
+| 90d | 2026-06-26 | 0 | 1 | 3 | 0 | 1 | 1 |
+| last180d | 2026-03-28 | 1 | 3 | 3 | 1 | 2 | 4 |
+| 360d | 2025-09-29 | 1 | 3 | 7 | 3 | 2 | 4 |
+| last720d | 2024-10-04 | 5 | 8 | 10 | 7 | 16 | 28 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for viddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:02:58Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:52:04Z._
