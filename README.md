@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,423 · **Forks**: 97 · **Open issues**: 89 · **Contributors**: 31
+- **Stars**: 5,424 · **Forks**: 97 · **Open issues**: 89 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 1 | 3 | 0 | 1 | 1 |
-| 90d | 2026-06-30 | 0 | 1 | 3 | 0 | 1 | 1 |
-| last180d | 2026-04-01 | 1 | 3 | 3 | 1 | 2 | 4 |
-| 360d | 2025-10-03 | 1 | 3 | 7 | 2 | 2 | 4 |
-| last720d | 2024-10-08 | 4 | 8 | 10 | 7 | 16 | 24 |
+| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 1 | 2 | 0 | 1 | 1 |
+| 90d | 2026-07-01 | 0 | 1 | 3 | 0 | 1 | 1 |
+| last180d | 2026-04-02 | 1 | 3 | 3 | 1 | 2 | 4 |
+| 360d | 2025-10-04 | 1 | 3 | 7 | 2 | 2 | 4 |
+| last720d | 2024-10-09 | 4 | 8 | 10 | 7 | 16 | 24 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for viddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:32:28Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:55:19Z._
