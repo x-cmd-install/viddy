@@ -29,9 +29,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/16 approved changesets -- score normalized to 1
 - **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,424 · **Forks**: 97 · **Open issues**: 89 · **Contributors**: 31
+- **Stars**: 5,425 · **Forks**: 98 · **Open issues**: 90 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 87 · **Open PRs**: 10 · **Closed issues**: 63 · **Open issues**: 26 · **Commits**: 308
+- **Releases**: 42 · **Merged PRs**: 87 · **Open PRs**: 11 · **Closed issues**: 63 · **Open issues**: 27 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 1 | 2 | 0 | 1 | 1 |
-| 90d | 2026-07-01 | 0 | 1 | 3 | 0 | 1 | 1 |
-| last180d | 2026-04-02 | 1 | 3 | 3 | 1 | 2 | 4 |
-| 360d | 2025-10-04 | 1 | 3 | 7 | 2 | 2 | 4 |
-| last720d | 2024-10-09 | 4 | 8 | 10 | 7 | 16 | 24 |
+| 30d | 2026-08-31 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-08-01 | 0 | 1 | 3 | 0 | 2 | 1 |
+| 90d | 2026-07-02 | 0 | 1 | 4 | 0 | 2 | 1 |
+| last180d | 2026-04-03 | 1 | 3 | 4 | 1 | 3 | 4 |
+| 360d | 2025-10-05 | 1 | 3 | 8 | 2 | 3 | 4 |
+| last720d | 2024-10-10 | 4 | 8 | 11 | 7 | 17 | 24 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for viddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:55:19Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:40:19Z._
