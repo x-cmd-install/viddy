@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: viddy
-  visiblename: viddy
-  version: 1.3.1
-  origversion: null
-  status: newest
-  summary: Modern watch command
 - repo: alpine_3_17
   subrepo: community
   srcname: viddy
@@ -83,13 +76,6 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
-- repo: homebrew
-  srcname: viddy
-  visiblename: viddy
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Modern watch command
 - repo: alpine_3_22
   subrepo: community
   srcname: viddy
@@ -236,13 +222,27 @@
   binname: viddy
   visiblename: sysutils/viddy
   version: 0.3.4
-  origversion: 0.3.4_46
+  origversion: 0.3.4_47
   status: outdated
   summary: Modern watch command
   maintainers:
     - lcook@freebsd.org
   categories:
     - sysutils
+- repo: homebrew
+  srcname: viddy
+  visiblename: viddy
+  version: 1.3.1
+  origversion: null
+  status: newest
+  summary: Modern watch command
+- repo: homebrew
+  srcname: viddy
+  visiblename: viddy
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Modern watch command
 - repo: macports
   srcname: sysutils/viddy
   binname: viddy
