@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,449 · **Forks**: 100 · **Open issues**: 90 · **Contributors**: 31
+- **Stars**: 5,450 · **Forks**: 101 · **Open issues**: 90 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 87 · **Open PRs**: 11 · **Closed issues**: 63 · **Open issues**: 27 · **Commits**: 308
+- **Releases**: 42 · **Merged PRs**: 87 · **Open PRs**: 13 · **Closed issues**: 63 · **Open issues**: 27 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-05-20 | 1 | 3 | 4 | 1 | 3 | 4 |
-| 360d | 2025-11-21 | 1 | 3 | 6 | 2 | 3 | 4 |
-| last720d | 2024-11-26 | 2 | 6 | 11 | 6 | 15 | 18 |
+| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last180d | 2026-05-21 | 1 | 3 | 6 | 1 | 3 | 4 |
+| 360d | 2025-11-22 | 1 | 3 | 8 | 2 | 3 | 4 |
+| last720d | 2024-11-27 | 2 | 6 | 13 | 6 | 15 | 18 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for viddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:41:20Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:05:08Z._
