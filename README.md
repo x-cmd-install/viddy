@@ -25,12 +25,12 @@ Total: **4,970** lines of code across **37** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3 / 10**
+Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 3/16 approved changesets -- score normalized to 1
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,450 · **Forks**: 101 · **Open issues**: 90 · **Contributors**: 31
+- **Stars**: 5,451 · **Forks**: 101 · **Open issues**: 90 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 5 | 0 | 2 | 0 |
-| last180d | 2026-05-21 | 1 | 3 | 6 | 1 | 3 | 4 |
-| 360d | 2025-11-22 | 1 | 3 | 8 | 2 | 3 | 4 |
-| last720d | 2024-11-27 | 2 | 6 | 13 | 6 | 15 | 18 |
+| 30d | 2026-10-20 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last180d | 2026-05-23 | 1 | 3 | 6 | 1 | 3 | 4 |
+| 360d | 2025-11-24 | 1 | 3 | 8 | 2 | 3 | 4 |
+| last720d | 2024-11-29 | 1 | 5 | 13 | 6 | 15 | 12 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **30** distros on [repology.org](https://repology.org/project/viddy). **10** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **31** distros on [repology.org](https://repology.org/project/viddy). **11** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for viddy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:05:08Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:38:10Z._
